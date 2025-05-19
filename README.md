@@ -11,7 +11,7 @@ k8s環境にデプロイして監視等を実施する。
 ### その他インフラ
 <img src="https://skillicons.dev/icons?i=docker,k8s,ecs" /> <br /><br />
 
-
+## 手順
 
 1. **シンプルなSpring Bootアプリケーションを作成**
     - JMXを利用できるように設定し、メトリクスを提供するMBeanを作成します。
